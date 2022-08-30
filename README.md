@@ -1,5 +1,6 @@
 # mynewrepo
 A repository created to learn connecting to GitHub remotly 
+
 echo "# mynewrepo" >> README.md
 git init
 git add README.md
